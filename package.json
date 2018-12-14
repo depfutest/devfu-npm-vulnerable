@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aedes": "^0.35.0"
+    "aedes": "^0.35.0",
+    "simplehttpserver": "0.2.0"
   }
 }
